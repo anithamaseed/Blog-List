@@ -1,0 +1,17 @@
+.h-line {
+  border: 1px solid #9aa5b1;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
+.content {
+  color: #616e7c;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
